@@ -49,6 +49,6 @@ class LinkedList {
             System.out.print(curr.data + " ");
             curr = curr.next;
         }
-        System.out.println();
+        System.out.println("\n");
     }
 }

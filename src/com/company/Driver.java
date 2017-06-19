@@ -8,8 +8,10 @@ public class Driver {
         LinkedList linkedList = new LinkedList();
         linkedList.insert(9);
         linkedList.insert(10);
-        linkedList.insert(7);
+        linkedList.insert(30);
         linkedList.insert(8);
         linkedList.insert(15);
+        linkedList.insert(15);
+        linkedList.insert(45);
     }
 }
